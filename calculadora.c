@@ -3,10 +3,10 @@
 
 int main()
 {
-        char op; //op = OPÇÃO SWITCH
-        int a, b, x; /** X = RESULTADO DA OPERAÇÃO **/
+        char op; //op = OPÃ‡ÃƒO SWITCH
+        int a, b, x; /** X = RESULTADO DA OPERAÃ‡ÃƒO **/
 
-        printf("Escolha sua operação \"+ - * / \": ");
+        printf("Escolha sua operacao \"+ - * / \": ");
         scanf("%c",&op);
 
         printf("Entre com o primeiro numero: ");
@@ -38,7 +38,7 @@ int main()
                 break;
 
             default:
-                printf("Você digitou uma operacao invalida.");
+                printf("Voce digitou uma operacao invalida.");
 
         }
 

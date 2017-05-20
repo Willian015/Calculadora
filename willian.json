@@ -1,7 +1,7 @@
 {
     "room":                     "Ou de Abacaxi",
     "author":                   "willian7535",
-    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
+    "icon":                     "http://i.imgur.com/D04If7l.png",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
@@ -27,16 +27,16 @@
 		"user": 				"#90EE90"
     },
     "images": {
-        "background":           "http://i.imgur.com/6CsEcJP.gifv",
+        "background":           "http://i.imgur.com/Hfe0MqI.png",
         "playback":             "http://i.imgur.com/31j5qwf.png",
-        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-        "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "admin":                "http://i.imgur.com/GKjbb19.png",
+        "ambassador":           "http://i.imgur.com/nLDgJtl.png",
         "host":                 "http://i.imgur.com/D04If7l.png",
         "cohost":               "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
-        "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
-        "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
-        "subscriber":           null,
+        "manager":              "http://i.imgur.com/C6XRH2j.png",
+        "bouncer":              "http://i.imgur.com/HNP7xvL.png",
+        "rdj":                  "http://i.imgur.com/s7mXg62.png",
+        "subscriber":           "http://i.imgur.com/awoi8fo.png",
         "silversubscriber":     "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
     "autocomplete": {

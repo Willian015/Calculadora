@@ -1,7 +1,7 @@
 {
     "room":                     "Ou de Abacaxi",
     "author":                   "willian7535",
-    "icon":                     NULL,
+    "icon":                     null,
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
@@ -27,7 +27,7 @@
 		"user": 				"#90EE90"
     },
     "images": {
-        "background":           NULL,
+        "background":           null,
         "playback":             "http://i.imgur.com/31j5qwf.png",
         "admin":                "http://i.imgur.com/GKjbb19.png",
         "ambassador":           "http://i.imgur.com/nLDgJtl.png",

@@ -307,16 +307,7 @@ left: -2px;
 } 		
 	
 	
-					
-[data-cid^="6302310-"] .msg .from .un {
-position: relative;
-padding-left: 20px;
-background-image: url(http://imgur.com/dJiS5qm.png);
-background-repeat: no-repeat;
-background-position: 0px center;
-background-size: 16px auto;
-left: -2px;
-} 		
+							
 	
 	
 					

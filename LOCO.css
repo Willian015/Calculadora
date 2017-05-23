@@ -1,7 +1,7 @@
 @import url("https://moveit-brasil.github.io/ccs/style.css");
 @import url("https://moveitbrasil.com.br/users/");
-@import url("https://raw.githubusercontent.com/Willian015/Calculadora/master/icone");
-@import url("https://fonts.googleapis.com/css?family=Ubuntu:500");
+@import url("https://moveitbrasil.com.br/niver-icone/");
+/* @import url("https://fonts.googleapis.com/css?family=Ubuntu:500"); */
 
 #chat .mention.is-staff {
 background: linear-gradient(135deg,rgb(172, 118, 255) 1%,rgba(172, 118, 255, 0.3) 10%,#111317 90%) !important;
@@ -18,17 +18,17 @@ background: linear-gradient(135deg,rgb(172, 118, 255) 1%,rgba(172, 118, 255, 0.3
 background-image: url('http://i.imgur.com/YZvQiFu.png');}
 /* ------------------------------------------------------------------ */
 /* MoveItBot */
-#chat [data-cid^="5394376-"] span.un.clickable {
+#chat [data-cid^="5035249-"] span.un.clickable {
     color: rgba(190, 145, 19, 1) !important;}
-#chat [data-cid^="5394376-"].emote {
+#chat [data-cid^="5035249-"].emote {
     background: rgba(196, 152, 64, 0.2) !important;
     border-left: rgb(197, 152, 64) 3px solid !important; }
-#chat [data-cid^="5394376-"].emote .timestamp {
+#chat [data-cid^="5035249-"].emote .timestamp {
     color: #A993C7 !important;}
-#chat [data-cid^="5394376-"].emote .text {
+#chat [data-cid^="5035249-"].emote .text {
     color: #f7f7f7 !important;}
-#chat [data-cid^="5394376-"] .icon,
-#chat .id-5394376 .icon {
+#chat [data-cid^="5035249-"] .icon,
+#chat .id-5035249 .icon {
     display:none !important;}
 /* ------------------------------------------------------------------ */
 /* preview video */
@@ -103,11 +103,11 @@ i.icon.icon-room {
 .app-header {
     background: rgba(28, 31, 37, 0.59);}
 /* ------------------------------------------------------------------ */
-/* Chat BotÃµes cima */
+/* Chat Botoes cima */
 .header-panel-button.selected {
     background-color: rgba(204, 155, 56, 0.25)!important;}
 /* ------------------------------------------------------------------ */
-/* BotÃµes direita */
+/* Botoes direita */
 #footer-user .buttons .button.store:hover {
     background: rgba(206, 25, 55, 0.2);}
 #footer-user .buttons .button.inventory:hover {
@@ -116,7 +116,7 @@ i.icon.icon-room {
     background: linear-gradient(to bottom, rgba(98, 75, 30, 0.2) 0, rgba(125, 96, 38, 0.5) 100%) !important;}
 /* ------------------------------------------------------------------ */
 /* Fundo top e bottom */
-/* Ãrea texto */
+/* Area texto */
 #chat-input {
     border-radius: 10px;
     background: rgba(111, 101, 101, 0.1) !important;}
@@ -149,7 +149,7 @@ background-position: 0px;}*/
 #footer .bar-button .section .chevron:after {
     background: #c59840;}
 /* ------------------------------------------------------------------ */
-/* BotÃ£o DJ */
+/* Botao DJ */
 #dj-button {
     border-radius: 50px 10px 10px 50px;
     background: #0b0d0f;}
@@ -171,11 +171,11 @@ background-position: 0px;}*/
 .votes-rs {
     background: rgba(0, 0, 0, 0.6) !important;}
 /* ------------------------------------------------------------------ */
-/* BotÃ£o Playlist */
+/* Botao Playlist */
 #playlist-button {
     background: linear-gradient(hsl(40, 61%, 54%), hsl(40, 59%, 31%)) !important;}
 /* ------------------------------------------------------------------ */
-/* ConfiguraÃ§Ãµes */
+/* Configuracoes */
 /* Fundo */
 #user-view,
 #waitlist .list .sortable-placeholder {
@@ -202,7 +202,7 @@ background-position: 0px;}*/
     width: 19px !important;
     height: 19px !important;}
 /* ------------------------------------------------------------------ */
-/* cabeÃ§alho alternativo inicio*/
+/* cabecalho alternativo inicio*/
 /* Text settings */
 #room-host,
 #now-playing-dj {
@@ -284,7 +284,7 @@ background-position: 0px;}*/
     background: linear-gradient(hsl(40, 61%, 54%), hsl(40, 59%, 31%));}
 #footer-user .info .bar .progress {
     background: rgba(197, 152, 64, 1);}
-/* -------------------------- CHAT ---------------------------------- */
+/* -------------------------- CHAT ----------------------------------
 #chat .emote .text {
     font-family: 'Ubuntu', sans-serif;}
 #chat-messages .text {
@@ -308,7 +308,7 @@ background-position: 0px;}*/
     color: #eee;
     font-family: 'Ubuntu', sans-serif;
     font-size: 13px;}
-/* ------------------------------------------------------------------ */
+------------------------------------------------------------------ */
 /* Menu lista Ban/Mute/Ignorados */
 #user-lists .list.bans .user:hover {
     background: linear-gradient(to right, rgba(255, 118, 118, 0) 0, rgba(255, 0, 0, 0.27) 100%) !important;}
@@ -317,7 +317,7 @@ background-position: 0px;}*/
 #user-lists .list.ignored .user:hover {
     background: linear-gradient(to right, rgba(255, 118, 118, 0) 0, rgba(255, 191, 0, 0.27) 100%) !important;}
 /* ------------------------------------------------------------------ */
-/* BG Chat sugestÃ£o */
+/* BG Chat sugestao */
 #chat-suggestion {
     background: rgba(2, 1, 1, 0.9);}
 /* ------------------------------------------------------------------ */
@@ -360,7 +360,7 @@ border-radius: 8px;}
 #dialog-user-role .role-menu .menu ul .manager span {
     color: #BE9113 !important;}
 /* ------------------------------------------------------------------ */
-/* SEGURANÃ‡A */
+/* SEGURANCA */
 #user-lists .group.bouncer {
     color: #05ABE4;}
 .icon-chat-bouncer + span,
@@ -625,7 +625,7 @@ background: hsla(220, 0%, 5%, 0.3) !important;}
 #user-menu .avatar {
     background: linear-gradient(to bottom, #c7993e 0, #58421e 56%, #332919 73%, #25211c 100%);}
 /* ------------------------------------------------------------------ */
-/* Status,Subscribe,NotificaÃ§oes menu */
+/* Status,Subscribe,Notificacoes menu */
 .subscribe-button {
     background: hsla(220, 0%, 5%, 0.1) !important;}
 .subscribe-button:hover {
@@ -705,7 +705,7 @@ cursor: default !important;}
 #media-panel .header .import-button {
     background: linear-gradient(hsla(263, 79%, 56%, 0.6), hsla(263, 79%, 35%, 0.6));}
 /* ------------------------------------------------------------------ */
-/* Botao editar mÃºsica */
+/* Botao editar musica */
 .media-list .selected .actions {
     background: linear-gradient(hsl(40, 80%, 39%), hsl(40, 78%, 10%)) !important;}
 .media-list .actions {
@@ -742,7 +742,7 @@ div.action.add:hover {
     -moz-box-shadow: inset 0 0 0 2px rgba(204, 145, 25, 0.5);
     box-shadow: inset 0 0 0 2px rgba(204, 145, 25, 0.5);}
 /* ------------------------------------------------------------------ */
-/* Menu nÃ­veis */
+/* Menu niveis */
 .experience .levels .level .label {
     background: linear-gradient(hsla(0, 14%, 11%, 0.78), hsla(0, 9%, 7%, 0.99));}
 .experience .levels .level {
@@ -848,7 +848,7 @@ color: #ffffff !important;}
 #user-rollover .meta span.user-id {
 color: #fff !important;}
 /* ------------------------------------------------------------------ */
-/* Hover itens menu de configuraÃ§Ã£o plug */
+/* Hover itens menu de configuracao plug */
 #user-settings .container .item {
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
@@ -874,7 +874,7 @@ color: #fff !important;}
   -webkit-transform: translateY(0);
   transform: translateY(0);}
 /* ------------------------------------------------------------------ */
-/* Hover itens menu usuÃ¡rio plug */
+/* Hover itens menu usuario plug */
 .item.profile.notify:hover,
 .item.inventory:hover,
 .item.store:hover,
@@ -926,7 +926,7 @@ background: linear-gradient(rgb(90, 67, 20), rgba(74, 56, 16, 0.952941));}
 /* Hover itens de sugestao */
 .dropdown dd .row:hover, .chat-suggestion-item[style='background: rgb(45, 49, 58);'], #search-suggestion .search-suggestion-item.selected, #dialog-restricted-media .row.selected, #dialog-user-role .role-menu .menu ul li:hover {
     background: linear-gradient(hsl(40, 55%, 48%), hsl(40, 64%, 23%)) !important;}
-/* CorreÃ§Ã£o posiÃ§Ã£o  de logo da Google Play e App Store do painel lateral com RCS */
+/* Correcao posicao  de logo da Google Play e App Store do painel lateral com RCS */
 #app-menu .android-badge {
     width: 131px;
     height: 45px;
@@ -944,19 +944,3 @@ background: linear-gradient(rgb(90, 67, 20), rgba(74, 56, 16, 0.952941));}
 
 #app-menu .list .rcsunload {
     height: 45px !important;
-/* Ary <3
-#chat .fromID-3466367 .un,
-#chat .id-3466367 .un {
-color: #e71d71 !important;}
-#user-lists .list .fromID-3466367 .name,
-#user-lists .list .id-3466367 .name {
-color: #e71d71 !important;}
-[data-cid^="3466367-"] .msg .from .un {
-    position: relative;
-    left: -1px;
-    padding-left: 34px;
-    background-image: url(http://im.ezgif.com/tmp/ezgif-1-6f7b983603.png);
-    background-repeat: no-repeat;
-    background-position: -1px center;
-    background-size: 32px auto;}
-*/

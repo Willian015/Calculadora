@@ -2,7 +2,7 @@
 	"room": "Ou de abacaxi",
 	"author": "willian7535",
 	"icon": "http://i.imgur.com/ew86p2h.png",
-	"css": "https://rawgit.com/Willian015/Calculadora/master/LOCO.css",
+	"css": "https://rawgit.com/Willian015/Calculadora/master/lco.css",
 	"rules": {
 		"allowAutorespond": true,
 		"allowAutowoot": true,

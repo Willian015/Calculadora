@@ -9,7 +9,7 @@ function message()
   'Massa',
   'Olá',
   '/me Hi',
-  '@willian015 salve',
+  '@djs salve',
   'Musica massa',
   'Gostei',
   'Kkkkkkkk',
@@ -17,6 +17,8 @@ function message()
   'Uou',
   'DJ Pareira, original!',
   '@willian015 coeh',
+  '!deletechat @willian015',
+  '!deletechat @willian7535',
   ];
   var randomNumber = Math.floor(Math.random()*randomconvos.length);
   

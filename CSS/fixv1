@@ -1,0 +1,12 @@
+/*Plugplus Rolover remover */ 
+div[class*="ppl-"] .un {
+    margin-left: 0px !important;
+}
+.ppl-helper .un::before, div[data-cid~="ppl-helper"] .un::before {
+  background: url(#) !important;
+}
+.rcs-user-info {
+    color: #5c5c5c;
+    margin-left: 15px;
+    font-size: 8px;
+}

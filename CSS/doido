@@ -1,0 +1,51 @@
+#room-bar .icon-room{
+	background: url("https://i.imgur.com/ygXrAY0.png") !important;
+	margin-top: -3px;
+}
+#dj-button .left {
+    background: rgba(40,44,53,1) !important;
+}
+.icon-chat-dj {
+    background: url("https://i.imgur.com/iDCpu3V.png") !important;
+    -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 4s linear infinite;
+}
+.icon-chat-bouncer {	
+	background: url("https://i.imgur.com/nJFfoil.png") !important;
+	-webkit-animation: iconAni 5s steps(40) infinite; 
+    	-moz-animation: iconAni 5s steps(40) infinite;
+    	-o-animation: iconAni 5s steps(40) infinite;
+    	animation: iconAni 5s steps(40) infinite;
+	
+}
+.icon-chat-manager {	
+	background: url("https://i.imgur.com/tqyDyIQ.png") !important;
+	-webkit-animation: iconAni 5s steps(40) infinite; 
+    	-moz-animation: iconAni 5s steps(40) infinite;
+    	-o-animation: iconAni 5s steps(40) infinite;
+    	animation: iconAni 5s steps(40) infinite;
+	
+}
+.icon-chat-host, .icon-chat-cohost {	
+	background: url("https://i.imgur.com/8uZzuAN.png") !important;
+	-webkit-animation: iconAni 5s steps(40) infinite; 
+    	-moz-animation: iconAni 5s steps(40) infinite;
+    	-o-animation: iconAni 5s steps(40) infinite;
+    	animation: iconAni 5s steps(40) infinite;
+	
+}
+.icon-chat-promoter {	
+	background: url("https://i.imgur.com/d8M5bsW.png") !important;
+	-webkit-animation: iconAni 5s steps(40) infinite; 
+    	-moz-animation: iconAni 5s steps(40) infinite;
+    	-o-animation: iconAni 5s steps(40) infinite;
+    	animation: iconAni 5s steps(40) infinite;
+	
+}
+@keyframes iconAni { from {background-position: 0px;} to {background-position: -600px;} }
+@-o-keyframes iconAni  { from {background-position: 0px;} to {background-position: -600px;} }
+@-webkit-keyframes iconAni { from {background-position: 0px;} to {background-position: -600px;} }
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
